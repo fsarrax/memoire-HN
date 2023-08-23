@@ -1,0 +1,3 @@
+("James and Felpes share a deep passion for football",{"links":{(0,5):{"Q54321": 1.0}},{(10,16):{"Q12345": 1.0}}})
+("James and Felpes love each other",{"links":{(0,5):{"Q67890": 1.0}},{(10,16):{"Q24680": 1.0}}})
+("James and Felpes are two biologists",{"links":{(0,5):{"Q13579": 1.0}},{(10,16):{"Q98765": 1.0}}})
